@@ -1,6 +1,39 @@
-# HHSKwkl (development version)
+# HHSKwkl 0.4.3
+
+30-7-2025
+
+- gebruik van `httr2` voor `download_data()` en `data_online()`
+- laatste versie voor opschonen
+
+17-12-2024
+
+*Toegevoegd*
+- `ws_grens()` en `get_ws_grens()`
+- Voorbereiding voor toevoeging van _brand.yml
+
+*Acties*
+- _brand.yml en bijbehorende bestanden maken
+- biologie uitfaseren
+- render_server() uitfaseren
+- bookdown_setup uitfaseren
+- code voor snippets opnemen??
+
+
+*Verwijderd*
+- `fys_chem_rds()`
+- `dawaco_connect()`
+
+# HHSKwkl 0.4.2
+
+1-10-2024
+
+- aanpassing aan toetsing_gbm voor wisselende detectiegrenzen
+- kleine aanpassingen (linewidth en nieuwe versie roxygen)
+
+# HHSKwkl 0.4.1
 
 - `mspaf()` Voorde berekening van msPAF uit PAF-waarden
+- `download_data()` en `data_online()` toegevoegd voor online data
 
 # HHSKwkl 0.4.0
 
